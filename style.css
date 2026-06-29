@@ -52,3 +52,13 @@ ul {
 li {
   margin-bottom: 0.25rem;
 }
+
+.app-icon {
+  display: block;
+  max-width: 120px;
+  height: auto;
+  margin-bottom: 1rem;
+  border-radius: 22px;
+  border: 1px solid #e0e0e0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+}
